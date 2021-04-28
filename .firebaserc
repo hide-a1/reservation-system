@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "lodging-reservation"
+  },
+  "targets": {
+    "lodging-reservation": {
+      "hosting": {
+        "reservation-system": [
+          "lodging-reservation"
+        ]
+      }
+    }
+  }
+}
